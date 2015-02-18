@@ -1,6 +1,0 @@
-fireplace has degenerate tangent bases which will result in incorrect shading. 
-
-leather_sofa has degenerate tangent bases which will result in incorrect shading. 
-
-(?) The texture you are importing is not a power of two.  Non power of two textures are never streamed and have no mipmaps. Proceed?
-
